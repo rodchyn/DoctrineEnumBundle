@@ -1,5 +1,5 @@
 {
-    "name": "fresh/doctrine-enum-bundle",
+    "name": "rodchyn/doctrine-enum-bundle",
     "description": "Provides support of MySQL ENUM type for Doctrine in Symfony applications",
     "keywords": ["doctrine", "enum", "type", "DBAL", "bundle", "symfony"],
 
