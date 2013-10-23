@@ -19,7 +19,7 @@
         "doctrine/orm": "~2.2"
     },
 
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 
     "autoload": {
         "psr-0": {
